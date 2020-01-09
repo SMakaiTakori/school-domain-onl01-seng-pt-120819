@@ -18,7 +18,7 @@ attr_accessor :name, :roster
     roster[grade] << name 
   end
   
-  def grade(grade)
+  def grade(grade_level)
     
     
   
