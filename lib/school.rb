@@ -13,7 +13,7 @@ def add_student(name, grade)
   @grade = grade
   
   roster[grade] = []
-  
+    
   
   
 
